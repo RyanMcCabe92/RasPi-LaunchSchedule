@@ -3,13 +3,13 @@
 # Requires: BeautifulSoup 4
 # Designed to run on a 20x4 I2C LCD
 
-# Ryan McCabe 7/30/16
+# Ryan McCabe - Started: 7/30/16 - Last updated: 7/31/16
 
 
 # Imports required libraries
 from bs4 import BeautifulSoup
 import urllib
-import I2C_LCD_driver
+import RPi_I2C_driver
 import time
 
 # Initializes LCD
