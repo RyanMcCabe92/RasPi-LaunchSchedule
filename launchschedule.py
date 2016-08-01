@@ -10,7 +10,7 @@
 # Imports required libraries
 from bs4 import BeautifulSoup
 import urllib
-import I2C_LCD_driver
+import RPi_I2C_driver.py
 import time
 
 # Set to true if you want to print out all the launches in the terminal
