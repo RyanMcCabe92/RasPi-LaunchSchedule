@@ -1,5 +1,5 @@
 # RasPi-LaunchSchedule
-Displays upcoming shuttle launch information on a 20x4 RasPi LCD. All data is pulled from SpaceFlightNow.com.
+Displays upcoming vehicle launch information on a 20x4 RasPi LCD. All data is pulled from SpaceFlightNow.com.
 
 I appologize if this code is sloppy and/or processes in an inefficient way. I wrote it less than a day after I started learning about Python so there's probably better ways to process the data.
 
