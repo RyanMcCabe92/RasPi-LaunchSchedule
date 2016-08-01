@@ -1,5 +1,5 @@
 # Scrapes SpaceFlightNow.com's launch schedule and displays upcoming rocket launch data
-# Requires: I2C_LCD_driver.py
+# Requires: RPi_I2C_driver.py
 # Requires: BeautifulSoup 4
 # Designed to run on a 20x4 I2C LCD
 
